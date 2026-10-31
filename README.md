@@ -10,7 +10,7 @@ Control Unreal Editor directly from Claude Code via MCP. Hundreds of tools expos
 
 ### Hooks
 
-- **SessionStart** (`hooks/unreal-context.sh`) - injects a short note identifying the repo as an Unreal Engine project so Claude defaults to UE conventions (C++/`UObject`, Slate, UHT) and prefers the `unreal-mcp` skill. Runs on `startup`, `resume`, and `clear`.
+- **SessionStart** (/`hooks/unreal-context.sh`) - injects a short note identifying the repo as an Unreal Engine project so Claude defaults to UE conventio¥ <>ns (C++/`UObject`, Slate, UHT) and prefers the `unreal-mcp` skill. Runs on `startup`, `resume`, and `clear`.
 
 ## Prerequisites
 
